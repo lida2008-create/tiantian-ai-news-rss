@@ -7,7 +7,7 @@
     <description>每天早上用个人博客口吻梳理十条重要 AI 新闻，并提供中文和英文音频版。</description>
     <link>https://lida2008-create.github.io/tiantian-ai-news-rss/</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 09:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:21:57 GMT</lastBuildDate>
     <generator>Codex static podcast generator</generator>
     <itunes:author>天天AI</itunes:author>
     <itunes:owner>
@@ -396,6 +396,50 @@ Mistral 在 AI Now Summit 上宣布了一系列动作，包括面向工业工程
       <guid isPermaLink="false">https://lida2008-create.github.io/tiantian-ai-news-rss/audio/ai-news-2026-06-06-zh-yunyang-final.mp3</guid>
       <pubDate>Sat, 06 Jun 2026 11:15:00 +0200</pubDate>
       <enclosure url="https://lida2008-create.github.io/tiantian-ai-news-rss/audio/ai-news-2026-06-06-zh-yunyang-final.mp3" length="6899373" type="audio/mpeg"/>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>天天AI十大新闻｜2026-06-06 中文补发版</title>
+      <description>6月6日中文补发版，使用云扬男声主持人新闻播报风格，完整梳理十条 AI 新闻。
+
+今天是二零二六年六月六日，欢迎收听天天AI十大新闻。今天这十条，我尽量用最直接的话讲清楚，这几天 AI 世界最重要的变化，已经不只是模型更聪明，而是它开始更深地进入云平台、企业系统、科研流程和政府规则。
+
+第一条，OpenAI 更新 ChatGPT 记忆系统。
+OpenAI 这次更新的重点，是让 ChatGPT 的记忆更持续、更省算力，也更容易查看。它不只是记住你手动保存的几条信息，而是会把过去聊天里反复出现的偏好和背景整理成更稳定的记忆摘要。普通人为什么要关心？因为以后你拿 AI 写邮件、做计划、整理资料时，可能不用每次都从头解释自己是谁、在做什么、想要什么风格。这会让 AI 更方便，但也会让用户更在意隐私和可控性。
+
+第二条，OpenAI 把前沿模型和 Codex 带进 AWS。
+OpenAI 说，它的前沿模型以及 Codex 已经可以通过 AWS 环境使用，包括 Amazon Bedrock 这类企业熟悉的平台。对普通听众来说，这不是一个只和程序员有关的消息。它意味着很多公司以后不会自己重新搭一整套 AI 基础设施，而是直接在原来的云系统里接入更强的模型。这样一来，AI 功能会更快进入办公软件、客服系统、开发工具和内部知识库。
+
+第三条，微软在 Build 二零二六 继续押注代理式 AI。
+微软在今年 Build 大会反复强调一个词，就是 agent，也就是代理式 AI。它不满足于让 Copilot 只是回答问题，而是想让 AI 读懂你的业务数据、调用不同应用、遵守权限规则，再把多步骤任务跑完。对普通用户来说，这会影响你未来怎么写文档、做报表、查资料，甚至安排工作流。AI 不是只帮你起草一句话，而是越来越像能接过部分工作的人。
+
+第四条，Anthropic 朝上市迈出关键一步。
+Anthropic 已经向美国证监会秘密递交了上市注册草案。虽然发行时间、股数和价格都还没定，但这一步已经很说明问题。AI 公司现在不只是烧钱讲未来，而是在准备接受公开市场的审视。普通人要关心，是因为一旦公司被季度业绩和投资人预期牵着走，很多产品策略都会变化，比如免费功能还能保留多久、企业版会不会更贵、哪些方向会被优先推进。
+
+第五条，Anthropic 警告 AI 网络攻击正在升级。
+Anthropic 这份报告研究了八百三十二个因恶意网络活动被封禁的账户，结论很直接，坏人用 AI，不再只是写钓鱼邮件，而是越来越多地把 AI 用在已经入侵系统之后的更复杂环节，比如横向移动、权限提升和内部侦察。普通人为什么要关心？因为银行、医院、通信、物流、政务这些系统都建立在软件之上。如果攻击者更容易把攻击自动化，现实世界受到影响的速度和范围都会变大。
+
+第六条，Google 发布 Gemma 四 十二 B。
+Google 这次发布的 Gemma 四 十二 B，主打的是体积更小，但仍然能处理文字、图像和音频，而且可以在大约十六 GB 内存级别的设备上运行。对普通用户来说，这背后的意义不只是又一个新模型，而是本地 AI 这条路又往前走了一步。以后一些翻译、转写、视觉理解、个人资料整理，可能可以更多在本机完成，而不是所有东西都要传到远端服务器。
+
+第七条，AWS 为 OpenAI 和 Anthropic 风格接口重做 Bedrock 控制台。
+AWS 这次做的不是发布一个新模型，而是把 Bedrock 的控制台和工作流程重新设计得更接近 OpenAI 与 Anthropic 常用接口。听上去像后台升级，但它非常关键。因为企业真正落地 AI 时，最怕的是换一家模型就要重写大量代码。现在云平台主动做兼容，等于在告诉市场，未来模型之间的切换成本会继续降低，应用开发会更像接电源一样简单。
+
+第八条，美国众议院提出联邦层面的 AI 规则草案。
+路透社报道，美国两位跨党派众议员提出草案，想限制各州单独去管 AI 模型开发本身，把重点放到全国统一框架上。支持者觉得这样能减少碎片化规则，保护创新速度；批评者则担心，这会削弱地方对风险的响应能力。普通听众要关心，因为监管方式会直接影响平台上线新功能的速度、责任边界，以及未来 AI 事故发生后到底谁说了算。
+
+第九条，白宫签署新的 AI 安全与创新行政令。
+根据路透社报道，这份行政令要求联邦机构为先进 AI 模型制定网络安全标准，还提出建立一个自愿合作的 AI 网络安全协调机制，用来发现漏洞、协调修复和推动补丁分发。简单说，政府不想只鼓励 AI 变强，也想让它在关键基础设施里别出大问题。对普通人来说，这种政策会逐步影响金融、电网、医疗、交通等系统用什么样的 AI，以及出了风险以后怎么处置。
+
+第十条，Mistral 把工业 AI 和欧洲算力放到更核心位置。
+Mistral 在 AI Now Summit 上宣布了一系列动作，包括面向工业工程的 AI 方案、和 Airbus、BMW、ASML 这类制造巨头的合作，以及法国 Les Ulis 新推理数据中心计划。它传递出的信号很清楚，AI 不只是聊天机器人，未来真正稳定赚钱的大市场，很可能来自航空、汽车、半导体和大型制造业。普通人要关心，是因为这会决定 AI 最终是只停留在屏幕里的助手，还是进入现实世界的设计、生产和供应链。
+
+以上就是今天的十条 AI 新闻。今天最明显的主线是三条。第一，AI 正在变成更长期、更主动的助手。第二，云平台和大公司正在把它更快地塞进真正的工作系统。第三，资本市场和政府规则也开始全面跟上。AI 当然会越来越有用，但它会不会同时更安全、更透明，也更照顾普通人的利益，接下来几个月会越来越关键。我们明天继续看。</description>
+      <link>https://lida2008-create.github.io/tiantian-ai-news-rss/episodes/ai-news-2026-06-06-cn-repost.html</link>
+      <guid isPermaLink="false">https://lida2008-create.github.io/tiantian-ai-news-rss/audio/ai-news-2026-06-06-zh-yunyang-repost.mp3</guid>
+      <pubDate>Sat, 06 Jun 2026 11:30:00 +0200</pubDate>
+      <enclosure url="https://lida2008-create.github.io/tiantian-ai-news-rss/audio/ai-news-2026-06-06-zh-yunyang-repost.mp3" length="6899373" type="audio/mpeg"/>
       <itunes:duration>00:07:11</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
